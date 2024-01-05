@@ -17,7 +17,7 @@ This project is a simple subscription form with validation for name and email fi
 
 # Live Demo:
 
-Check out the live demo (here)[modelsubscribe.ccbp.tech] to explore the Subscription Form Validation.
+Check out the live demo [here](https://modelsubscribe.ccbp.tech/) to explore the Subscription Form Validation.
 
 # How to Use
 Clone the Repository:
