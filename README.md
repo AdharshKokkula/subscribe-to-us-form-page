@@ -22,7 +22,7 @@ Check out the live demo [here](https://modelsubscribe.ccbp.tech/) to explore the
 # How to Use
 Clone the Repository:
 
-git clone https://github.com/your-username/subscription-form-validation.git
+git clone https://github.com/AdharshKokkula/subscribe-to-us-form-page.git
 
 Open index.html:
 
